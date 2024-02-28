@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Maynak Singh</h1>
+ <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">Love to work with problem solvers.Who give more prefrence to understand the engineering behind the techonology instead of learning the techmolgy.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
