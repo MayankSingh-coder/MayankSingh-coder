@@ -1,6 +1,7 @@
- <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
-<h3 align="center">Love to work with problem solvers.Who give more prefrence to understand the engineering behind the techonology instead of learning the techmolgy.</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h1 align="center">Hi 👋, I'm Mayank Singh</h1>
+<h3 align="center">I love collaborating with problem solvers—especially those who care more about understanding the engineering behind technology than just learning tools by name.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayansing-code&label=Profile%20views&color=0e75b6&style=flat" alt="mayansing-code" /> </p>
 
@@ -8,15 +9,20 @@
 
 <p align="left"> <a href="https://twitter.com/mayank38249235" target="blank"><img src="https://img.shields.io/twitter/follow/mayank38249235?logo=twitter&style=for-the-badge" alt="mayank38249235" /></a> </p>
 
-- 🔭 I’m currently working on **both developers and devops, so understand the whole cycle from development to deployement.**
+- 🔭 I’m currently working across both **development and DevOps**, giving me end-to-end insight into everything from writing code to deploying it.
 
-- 🤝 I’m looking for help with **node js or react projects as well cloud project will also will be welcomed.working with kubernetes always excites me.**
+- 🤖 I’ve been diving into **AI/LLMs**, building hands-on projects that explore how models work at a foundational level—like multi-layer perceptrons and attention mechanisms.
 
-- 📝 I regularly write articles on [https://mayank-blogs.hashnode.dev/](https://mayank-blogs.hashnode.dev/)
+- ☁️ Passionate about **cloud infrastructure**, and always excited to work with **Kubernetes** and scalable architecture.
 
-- 💬 Ask me about **react,nodejs,system architecture,gcp-cloud,devops,Dsa-Algorithms.**
+- 💻 Open to collaboration on **Node.js, React, and cloud-native projects**—especially ones where we can learn and build together.
 
-- 📫 How to reach me **mayankjh05@gmail.com**
+- ✍️ I regularly write articles at: [mayank-blogs.hashnode.dev](https://mayank-blogs.hashnode.dev)
+
+- 💬 Ask me about: **React, Node.js, AI/ML, System Architecture, GCP, DevOps, DSA & Algorithms**
+
+- 📫 Reach out at: **mayankjh05@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
