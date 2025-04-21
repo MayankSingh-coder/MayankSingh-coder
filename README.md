@@ -1,3 +1,6 @@
+<h1 align="center">🧠 Building Open-Source Human Brain-Mimicking Neural Networks</h1>
+<h3 align="center">Exploring how LLMs learn, reason, and scale—one layer at a time.</h3>
+
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">I love collaborating with problem solvers—especially those who care more about understanding the engineering behind technology than just learning tools by name.</h3>
 
@@ -13,6 +16,8 @@
 
 - 🤖 I’ve been diving into **AI/LLMs**, building hands-on projects that explore how models work at a foundational level—like multi-layer perceptrons and attention mechanisms.
 
+- 🧠 Currently building an **open-source project that mimics human brain-like neural networks**, exploring how LLMs learn, reason, and scale.
+
 - ☁️ Passionate about **cloud infrastructure**, and always excited to work with **Kubernetes** and scalable architecture.
 
 - 💻 Open to collaboration on **Node.js, React, and cloud-native projects**—especially ones where we can learn and build together.
@@ -22,6 +27,7 @@
 - 💬 Ask me about: **React, Node.js, AI/ML, System Architecture, GCP, DevOps, DSA & Algorithms**
 
 - 📫 Reach out at: **mayankjh05@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
