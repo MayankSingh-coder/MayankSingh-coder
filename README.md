@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayansing-code" alt="mayansing-code" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mayank38249235" target="blank"><img src="https://img.shields.io/twitter/follow/mayank38249235?logo=twitter&style=for-the-badge" alt="mayanks_57" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mayanks_57" target="blank"><img src="https://img.shields.io/twitter/follow/mayanks_57?logo=twitter&style=for-the-badge" alt="mayanks_57" /></a> </p>
 
 - 🔭 I’m currently working across both **development and DevOps**, giving me end-to-end insight into everything from writing code to deploying it.
 
