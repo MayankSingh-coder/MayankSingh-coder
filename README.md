@@ -26,17 +26,5 @@
 
 * 📧 Email: **[mayankjh05@gmail.com](mailto:mayankjh05@gmail.com)**
 * 🐦 Twitter: [@mayanks\_57](https://twitter.com/mayanks_57)
-* 💼 LinkedIn: [Mayank Singh](https://linkedin.com/in/mayank%20singh)
-* 📝 Blogs: [mayank-blogs.hashnode.dev](https://mayank-blogs.hashnode.dev)
+* 💼 LinkedIn: [Mayank Singh](https://www.linkedin.com/in/mayanksg/)
 
----
-
-### 🌐 Let's Connect
-
-<p align="left">
-<a href="https://twitter.com/mayanks_57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayank singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://hashnode.com/mayanjh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/alone_w@lker_2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alone_walker_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
